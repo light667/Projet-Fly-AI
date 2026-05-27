@@ -18,8 +18,8 @@ export default function RegisterPage() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
-  const [studyLevel, setStudyLevel] = useState("");
-  const [desiredDestination, setDesiredDestination] = useState("");
+  const [level, setLevel] = useState("");
+  const [destination, setDestination] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
@@ -56,8 +56,8 @@ export default function RegisterPage() {
         uid: result.user.uid,
         email,
         pseudo,
-        studyLevel: studyLevel || "Licence",
-        desiredDestination: desiredDestination || "France",
+        studyLevel: level || "Licence",
+        desiredDestination: destination || "France",
         academicScore: 0,
         profileCompletion: 20,
         createdAt: new Date().toISOString(),
