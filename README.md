@@ -9,18 +9,6 @@ Fly AI est une application web moderne conçue pour offrir une expérience mobil
 - suivre leurs candidatures,
 - obtenir des recommandations IA en temps réel.
 
-> Fly AI doit se comporter comme une vraie application mobile : rapide, immersive, premium et prête pour l'usage réel.
-
----
-
-## Objectifs du projet
-
-- Expérience utilisateur mobile-first et fluide
-- Interface moderne, élégante et émotionnellement engageante
-- Architecture propre, scalable et maintenable
-- Prête à impressionner un jury ou des investisseurs
-- Compatible avec un déploiement rapide sur Vercel
-
 ---
 
 ## Fonctionnalités principales
@@ -69,8 +57,8 @@ Fly AI est une application web moderne conçue pour offrir une expérience mobil
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-organisation/votre-repo.git
-   cd FlyAI-Lovable
+   git clone https://github.com/light667/Projet-Fly-AI
+   cd Projet-Fly-AI
    ```
 2. Installer les dépendances :
    ```bash
@@ -155,4 +143,4 @@ Toute contribution doit respecter les principes suivants :
 
 ## Contact
 
-Pour toute question ou amélioration, utilisez les issues du dépôt ou contactez l'équipe produit.
+Pour toute question ou amélioration, utilisez les issues du dépôt ou contactez +228 70703111
