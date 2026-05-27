@@ -1,0 +1,8 @@
+{
+  "name": "Fly AI",
+  "description": "L'excellence académique pour l'Afrique - Assistant de bourses (Eiffel, Mastercard, DAAD) et relecteur IA de dossiers de candidature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
